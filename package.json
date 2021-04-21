@@ -1,0 +1,23 @@
+{
+  "name": "moshify-website",
+  "version": "1.0.0",
+  "description": "Repo for training coding HTML and CSS with Mosh Hamedani. Building beautiful and amazing website for imaginary cloud hosting company \"Moshified.com\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuriddinislamov/moshified-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuriddinislamov/moshified-website/issues"
+  },
+  "homepage": "https://github.com/nuriddinislamov/moshified-website#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
